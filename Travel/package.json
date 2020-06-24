@@ -2,7 +2,7 @@
   "name": "travel",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "ruimengmeng",
+  "author": "ym",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "fastclick": "^1.0.6",
+    "stylus": "^0.54.7",
+    "stylus-loader": "^3.0.2",
     "vue": "^2.5.2",
     "vue-router": "^3.0.1"
   },
