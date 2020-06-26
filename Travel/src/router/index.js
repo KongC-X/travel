@@ -6,7 +6,6 @@ import City from '@/pages/city/City'
 Vue.use(Router)
 
 export default new Router({
-
   routes: [{
     path: '/',
     name: 'Home',
