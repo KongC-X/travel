@@ -10,13 +10,8 @@
     <div class="header-right">
       {{this.city}}
       <span class="iconfont arrow-icon">&#xe600;</span>
-<<<<<<< HEAD
-    </div></router-link>
-
-=======
     </div>
     </router-link>
->>>>>>> city-search
   </div>
 </template>
 
